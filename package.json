@@ -1,0 +1,42 @@
+{
+  "name": "puerto-pollo-theme",
+  "displayName": "Puerto Pollo Theme",
+  "description": "An editor color theme based on Puerto Pollo, one of the cities that appears in the mythic game, Monkey Island",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.69.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "scripts": {
+    "prettier": "prettier --write '**/*.{ts,tsx,js,jsx,json,md,css,scss,html}'"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.{ts,tsx,js,jsx,json,md,css,scss,html}": [
+      "prettier --write",
+      "git add"
+    ]
+  }
+  "contributes": {
+    "themes": [
+      {
+        "label": "Puerto Pollo Theme",
+        "uiTheme": "vs",
+        "path": "./themes/puerto-pollo-color-theme.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "eslint": "^8.19.0",
+    "eslint-config-prettier": "^8.5.0",
+    "husky": "^8.0.1",
+    "lint-staged": "^13.0.3",
+    "prettier": "2.7.1"
+  }
+}
