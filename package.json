@@ -13,6 +13,11 @@
     "prettier": "prettier --write '**/*.{ts,tsx,js,jsx,json,md,css,scss,html}'",
     "prepare": "husky install"
   },
+  "lint-staged": {
+    "**/*.{ts,tsx,js,jsx,json,md,css,scss,html}": [
+      "prettier --write"
+    ]
+  },
   "contributes": {
     "themes": [
       {
