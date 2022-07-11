@@ -10,19 +10,9 @@
     "Themes"
   ],
   "scripts": {
-    "prettier": "prettier --write '**/*.{ts,tsx,js,jsx,json,md,css,scss,html}'"
+    "prettier": "prettier --write '**/*.{ts,tsx,js,jsx,json,md,css,scss,html}'",
+    "prepare": "husky install"
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged"
-    }
-  },
-  "lint-staged": {
-    "*.{ts,tsx,js,jsx,json,md,css,scss,html}": [
-      "prettier --write",
-      "git add"
-    ]
-  }
   "contributes": {
     "themes": [
       {
@@ -35,8 +25,9 @@
   "devDependencies": {
     "eslint": "^8.19.0",
     "eslint-config-prettier": "^8.5.0",
-    "husky": "^8.0.1",
     "lint-staged": "^13.0.3",
-    "prettier": "2.7.1"
+    "pinst": "^3.0.0",
+    "prettier": "2.7.1",
+    "husky": "^8.0.0"
   }
 }
