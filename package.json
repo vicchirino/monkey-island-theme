@@ -1,7 +1,7 @@
 {
-  "name": "puerto-pollo-theme",
-  "displayName": "Puerto Pollo Theme",
-  "description": "An editor color theme based on Puerto Pollo, one of the cities that appears in the mythic game, Monkey Island",
+  "name": "melee-island-theme",
+  "displayName": "Melee Island Theme",
+  "description": "An editor color theme based on Melee Island, one of the cities that appears in the mythic game, Monkey Island",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.69.0"
@@ -21,9 +21,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Puerto Pollo Theme",
+        "label": "Melee Island Theme",
         "uiTheme": "vs",
-        "path": "./themes/puerto-pollo-color-theme.json"
+        "path": "./themes/melee-island-color-theme.json"
       }
     ]
   },
