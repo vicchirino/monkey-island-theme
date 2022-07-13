@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Halcyon Logo" src="" width="100" />
+  <img alt="Monkey Island Logo" src="https://github.com/vicchirino/monkey-island-theme/blob/main/images/monkey-island-logo.png" width="500" />
 </p>
 <h1 align="center">
   Monkey Island Themes for VS Code
@@ -8,7 +8,11 @@
   A set of themes using Monkey Island games palettes for <a href="https://victorchirino.com">VS Code</a>.
 </p>
 
-## Installation via VS Code
+## Mêlée Island dark theme
+
+![demo](https://github.com/vicchirino/monkey-island-theme/blob/main/images/melee-island-theme-demo.png)
+
+### Installation via VS Code
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
 2. Search for `Monkey Island Theme`
@@ -16,13 +20,13 @@
 4. Click **Reload** to reload the editor
 5. Code > Preferences > Color Theme > **Melee Island**
 
-## Manual Installation
+### Manual Installation
 
 Read the [VSC Extension Quickstart Guide](https://github.com/vicchirino/monkey-island-theme/blob/main/vsc-extension-quickstart.md)
 
-## Color Reference
+### Color Reference
 
-### Syntax Colors
+#### Syntax Colors
 
 |                                 Color                                  | Usage                                           |
 | :--------------------------------------------------------------------: | ----------------------------------------------- |
@@ -33,7 +37,7 @@ Read the [VSC Extension Quickstart Guide](https://github.com/vicchirino/monkey-i
 | ![#7098af](https://via.placeholder.com/10/7098af.png?text=+) `#7098af` | Special keywords, classes, markdown code blocks |
 | ![#a6a6a6](https://via.placeholder.com/10/a6a6a6.png?text=+) `#a6a6a6` | Variables, property names, tags                 |
 
-### UI Colors
+#### UI Colors
 
 |                                 Color                                  | Usage                                      |
 | :--------------------------------------------------------------------: | ------------------------------------------ |
