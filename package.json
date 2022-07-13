@@ -1,7 +1,7 @@
 {
-  "name": "melee-island-theme",
-  "displayName": "Melee Island Theme",
-  "description": "An editor color theme based on Melee Island, one of the cities that appears in the mythic game, Monkey Island",
+  "name": "monkey-island-theme",
+  "displayName": "Monkey Island Theme",
+  "description": "An editor color theme based on Monkey Island",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.69.0"
@@ -21,9 +21,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Melee Island Theme",
+        "label": "Monkey Island Theme",
         "uiTheme": "vs",
-        "path": "./themes/melee-island-color-theme.json"
+        "path": "./themes/monkey-island-theme.json"
       }
     ]
   },
