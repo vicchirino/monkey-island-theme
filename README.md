@@ -12,6 +12,19 @@
 
 ![demo](https://github.com/vicchirino/monkey-island-theme/blob/main/images/melee-island-theme-demo.png)
 
+<p align="middle">
+  <p align="middle">
+    <img src="https://github.com/vicchirino/monkey-island-theme/blob/main/images/palette-1.jpg" width="333" />
+    <img src="https://github.com/vicchirino/monkey-island-theme/blob/main/images/palette-2.jpg" width="333" /> 
+    <img src="https://github.com/vicchirino/monkey-island-theme/blob/main/images/palette-3.jpg" width="333" />
+  </p>
+   <p align="middle">
+    <img src="https://github.com/vicchirino/monkey-island-theme/blob/main/images/palette-4.jpg" width="333" />
+    <img src="https://github.com/vicchirino/monkey-island-theme/blob/main/images/palette-5.jpg" width="333" /> 
+    <img src="https://github.com/vicchirino/monkey-island-theme/blob/main/images/palette-6.jpg" width="333" />
+  </p>
+<p align="middle">
+
 ### Installation via VS Code
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
