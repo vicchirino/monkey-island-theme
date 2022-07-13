@@ -13,7 +13,7 @@
     "email": "vicchirino@gmail.com"
   },
   "homepage": "https://www.victorchirino.com",
-  "icon": "icons/theme-icon.png",
+  "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.69.0"
   },
