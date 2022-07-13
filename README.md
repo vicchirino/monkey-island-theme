@@ -1,3 +1,6 @@
+<p align="center">
+  <img alt="Halcyon Logo" src="" width="100" />
+</p>
 <h1 align="center">
   Monkey Island Themes for VS Code
 </h1>

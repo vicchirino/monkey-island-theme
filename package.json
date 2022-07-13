@@ -3,11 +3,36 @@
   "displayName": "Monkey Island Theme",
   "description": "An editor color theme based on Monkey Island",
   "version": "0.0.1",
+  "publisher": "VictorChirino",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vicchirino/monkey-island-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/vicchirino/monkey-island-theme/issues",
+    "email": "vicchirino@gmail.com"
+  },
+  "homepage": "https://www.victorchirino.com",
+  "icon": "icons/theme-icon.png",
   "engines": {
     "vscode": "^1.69.0"
   },
+  "galleryBanner": {
+    "color": "#FDFDFE",
+    "theme": "dark"
+  },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "Monkey Island",
+    "Monkey-Island",
+    "Theme",
+    "Color Theme",
+    "Dark Theme",
+    "Guybrush Threepwood",
+    "Melee Island",
+    "Monkey"
   ],
   "scripts": {
     "prettier": "prettier --write '**/*.{ts,tsx,js,jsx,json,md,css,scss,html}'",
@@ -22,7 +47,7 @@
     "themes": [
       {
         "label": "Melee Island Theme",
-        "uiTheme": "vs",
+        "uiTheme": "vs-dark",
         "path": "./themes/melee-island-theme.json"
       }
     ]
