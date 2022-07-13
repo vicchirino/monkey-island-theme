@@ -21,9 +21,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Monkey Island Theme",
+        "label": "Melee Island Theme",
         "uiTheme": "vs",
-        "path": "./themes/monkey-island-theme.json"
+        "path": "./themes/melee-island-theme.json"
       }
     ]
   },
