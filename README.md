@@ -56,8 +56,7 @@ Read the [VSC Extension Quickstart Guide](https://github.com/vicchirino/monkey-i
 | :--------------------------------------------------------------------: | ------------------------------------------ |
 | ![#0a0e41](https://via.placeholder.com/10/0a0e41.png?text=+) `#0a0e41` | Workbench background                       |
 | ![#060565](https://via.placeholder.com/10/060565.png?text=+) `#060565` | Editor background                          |
-| ![#4c40d2](https://via.placeholder.com/10/4c40d2.png?text=+) `#4c40d2` | Highlight                                  |
-| ![#111575](https://via.placeholder.com/10/111575.png?text=+) `#111575` | Widgets, panels                            |
+| ![#111575](https://via.placeholder.com/10/111575.png?text=+) `#111575` | Widgets, panels, highlight                 |
 | ![#325b8b](https://via.placeholder.com/10/325b8b.png?text=+) `#325b8b` | Status bar text, Title bar text, etc       |
 | ![#d2d2d2](https://via.placeholder.com/10/d2d2d2.png?text=+) `#d2d2d2` | Active text, anything that should be white |
 | ![#e08602](https://via.placeholder.com/10/e08602.png?text=+) `#e08602` | Accent, list tree titles, badges, etc      |
