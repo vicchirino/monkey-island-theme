@@ -14,14 +14,14 @@
 
 <p align="middle">
   <p align="middle">
-    <img src="https://raw.githubusercontent.com/vicchirino/monkey-island-theme/main/images/palette-1.jpg" width="330" />
-    <img src="https://raw.githubusercontent.com/vicchirino/monkey-island-theme/main/images/palette-2.jpg" width="330" /> 
-    <img src="https://raw.githubusercontent.com/vicchirino/monkey-island-theme/main/images/palette-3.jpg" width="330" />
+    <img src="https://raw.githubusercontent.com/vicchirino/monkey-island-theme/main/images/palette-1.jpg" width="250" />
+    <img src="https://raw.githubusercontent.com/vicchirino/monkey-island-theme/main/images/palette-2.jpg" width="250" /> 
+    <img src="https://raw.githubusercontent.com/vicchirino/monkey-island-theme/main/images/palette-3.jpg" width="250" />
   </p>
    <p align="middle">
-    <img src="https://raw.githubusercontent.com/vicchirino/monkey-island-theme/main/images/palette-4.jpg" width="330" />
-    <img src="https://raw.githubusercontent.com/vicchirino/monkey-island-theme/main/images/palette-5.jpg" width="330" /> 
-    <img src="https://raw.githubusercontent.com/vicchirino/monkey-island-theme/main/images/palette-6.jpg" width="330" />
+    <img src="https://raw.githubusercontent.com/vicchirino/monkey-island-theme/main/images/palette-4.jpg" width="250" />
+    <img src="https://raw.githubusercontent.com/vicchirino/monkey-island-theme/main/images/palette-5.jpg" width="250" /> 
+    <img src="https://raw.githubusercontent.com/vicchirino/monkey-island-theme/main/images/palette-6.jpg" width="250" />
   </p>
 <p align="middle">
 
@@ -64,8 +64,8 @@ Read the [VSC Extension Quickstart Guide](https://github.com/vicchirino/monkey-i
 | ![#c0413e](https://via.placeholder.com/10/c0413e.png?text=+) `#c0413e` | Deletion highlights, errors, warnings      |
 | ![#7098af](https://via.placeholder.com/10/7098af.png?text=+) `#7098af` | Modified highlights                        |
 
-## Theming Reference
+## Theming Resources
 
-[VS Code Theme Color Reference](https://code.visualstudio.com/docs/getstarted/theme-color-reference)
-[VS Code Theme Documentation](https://code.visualstudio.com/docs/extensions/themes-snippets-colorizers)
-[VS Code Publishing Extensions](https://code.visualstudio.com/docs/extensions/publish-extension)
+- [VS Code Theme Color Reference](https://code.visualstudio.com/docs/getstarted/theme-color-reference)
+- [VS Code Theme Documentation](https://code.visualstudio.com/docs/extensions/themes-snippets-colorizers)
+- [VS Code Publishing Extensions](https://code.visualstudio.com/docs/extensions/publish-extension)
