@@ -64,3 +64,9 @@ Read the [VSC Extension Quickstart Guide](https://github.com/vicchirino/monkey-i
 | ![#4e8607](https://via.placeholder.com/10/4e8607.png?text=+) `#4e8607` | Addition highlights                        |
 | ![#c0413e](https://via.placeholder.com/10/c0413e.png?text=+) `#c0413e` | Deletion highlights, errors, warnings      |
 | ![#7098af](https://via.placeholder.com/10/7098af.png?text=+) `#7098af` | Modified highlights                        |
+
+## Theming Reference
+
+[VS Code Theme Color Reference](https://code.visualstudio.com/docs/getstarted/theme-color-reference)
+[VS Code Theme Documentation](https://code.visualstudio.com/docs/extensions/themes-snippets-colorizers)
+[VS Code Publishing Extensions](https://code.visualstudio.com/docs/extensions/publish-extension)
