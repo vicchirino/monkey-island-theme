@@ -1,9 +1,11 @@
-# Change Log
+# Monkey island themes for Visual Studio Code
 
-All notable changes to the "monkey-island-theme" extension will be documented in this file.
+Source from: https://github.com/vicchirino/monkey-island-theme
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## 0.1.0
 
-## [Unreleased]
+`13-07-2022`
 
-- Initial release
+First version of Monkey Island Themes for VScode.
+- Create the Melee Island dark theme.
+- Firs releseable version
