@@ -20,8 +20,8 @@
   </p>
    <p align="middle">
     <img src="https://raw.githubusercontent.com/vicchirino/monkey-island-theme/main/images/palette-4.jpg" width="333" />
-    <img src="https://raw.githubusercontent.com/vicchirino/monkey-island-theme/main/images/palette-6.jpg" width="333" /> 
-    <img src="https://raw.githubusercontent.com/vicchirino/monkey-island-theme/main/images/palette-7.jpg" width="333" />
+    <img src="https://raw.githubusercontent.com/vicchirino/monkey-island-theme/main/images/palette-5.jpg" width="333" /> 
+    <img src="https://raw.githubusercontent.com/vicchirino/monkey-island-theme/main/images/palette-6.jpg" width="333" />
   </p>
 <p align="middle">
 
