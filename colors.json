@@ -1,37 +1,4 @@
 {
-  "image-1": {
-    "bistre": "#F3022ff",
-    "liver-dogs": "#B56B32ff",
-    "jasmine": "#F7DB7Bff",
-    "rocket-metallic": "#8B7377ff",
-    "lapis-lazulijasmine": "#005B9Fff",
-    "oxford-blue": "#021D44ff",
-    "bottle-green": "#17624Cff"
-  },
-  "image-2": {
-    "Jasmine": "#FEE695",
-    "Chocolate Web": "#E37219",
-    "Saddle Brown": "#7D3102",
-    "Black Bean": "#410F04",
-    "Rose Ebony": "#654648",
-    "Middle Grey": "#94877C"
-  },
-  "image-3": {
-    "Gold Crayola": "#FDCA7E",
-    "Yellow Orange": "#FDAA3A",
-    "Kobe": "#792F1A",
-    "Old Burgundy": "#3C2623",
-    "Persian Blue": "#1631C1",
-    "Rifle Green": "#3C4724"
-  },
-  "image-4": {
-    "Ecru": "#D1C094",
-    "Chestnut": "#9A5243",
-    "Saddle Brown": "#8A4717",
-    "Satin Sheen Gold": "#BE9B44",
-    "Dark Moss Green": "#415E0D",
-    "MSU Green": "#0F4B43"
-  },
   "array-color": [
     "#111575",
     "#7098AF",
