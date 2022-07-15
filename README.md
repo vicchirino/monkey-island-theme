@@ -55,6 +55,7 @@ Read the [VSC Extension Quickstart Guide](https://github.com/vicchirino/monkey-i
 |                                 Color                                  | Usage                                 |
 | :--------------------------------------------------------------------: | ------------------------------------- |
 | ![#242225](https://via.placeholder.com/10/242225.png?text=+) `#242225` | Some black texts                      |
+| ![#14174C](https://via.placeholder.com/10/14174C.png?text=+) `#14174C` | Sidebar and commons                   |
 | ![#0a0e41](https://via.placeholder.com/10/0a0e41.png?text=+) `#0a0e41` | Workbench background                  |
 | ![#060565](https://via.placeholder.com/10/060565.png?text=+) `#060565` | Editor background                     |
 | ![#111575](https://via.placeholder.com/10/111575.png?text=+) `#111575` | Widgets, panels, highlight, borders   |
