@@ -5,7 +5,7 @@
   Monkey Island Themes for VS Code
 </h1>
 <p align="center">
-  A set of themes using Monkey Island games palettes for <a href="https://victorchirino.com">VS Code</a>.
+  A set of themes using Monkey Island games palettes for <a href="https://monkey-island-extension-site.vercel.app">VS Code</a>.
 </p>
 
 ## Mêlée Island dark theme
