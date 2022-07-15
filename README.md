@@ -52,17 +52,18 @@ Read the [VSC Extension Quickstart Guide](https://github.com/vicchirino/monkey-i
 
 #### UI Colors
 
-|                                 Color                                  | Usage                                      |
-| :--------------------------------------------------------------------: | ------------------------------------------ |
-| ![#0a0e41](https://via.placeholder.com/10/0a0e41.png?text=+) `#0a0e41` | Workbench background                       |
-| ![#060565](https://via.placeholder.com/10/060565.png?text=+) `#060565` | Editor background                          |
-| ![#111575](https://via.placeholder.com/10/111575.png?text=+) `#111575` | Widgets, panels, highlight                 |
-| ![#325b8b](https://via.placeholder.com/10/325b8b.png?text=+) `#325b8b` | Status bar text, Title bar text, etc       |
-| ![#d2d2d2](https://via.placeholder.com/10/d2d2d2.png?text=+) `#d2d2d2` | Active text, anything that should be white |
-| ![#e08602](https://via.placeholder.com/10/e08602.png?text=+) `#e08602` | Accent, list tree titles, badges, etc      |
-| ![#4e8607](https://via.placeholder.com/10/4e8607.png?text=+) `#4e8607` | Addition highlights                        |
-| ![#c0413e](https://via.placeholder.com/10/c0413e.png?text=+) `#c0413e` | Deletion highlights, errors, warnings      |
-| ![#7098af](https://via.placeholder.com/10/7098af.png?text=+) `#7098af` | Modified highlights                        |
+|                                 Color                                  | Usage                                 |
+| :--------------------------------------------------------------------: | ------------------------------------- |
+| ![#242225](https://via.placeholder.com/10/242225.png?text=+) `#242225` | Some black texts                      |
+| ![#0a0e41](https://via.placeholder.com/10/0a0e41.png?text=+) `#0a0e41` | Workbench background                  |
+| ![#060565](https://via.placeholder.com/10/060565.png?text=+) `#060565` | Editor background                     |
+| ![#111575](https://via.placeholder.com/10/111575.png?text=+) `#111575` | Widgets, panels, highlight, borders   |
+| ![#325b8b](https://via.placeholder.com/10/325b8b.png?text=+) `#325b8b` | Status bar text, Title bar text, etc  |
+| ![#d2d2d2](https://via.placeholder.com/10/d2d2d2.png?text=+) `#d2d2d2` | Active text, whity things             |
+| ![#e08602](https://via.placeholder.com/10/e08602.png?text=+) `#e08602` | Accent, list tree titles, badges, etc |
+| ![#4e8607](https://via.placeholder.com/10/4e8607.png?text=+) `#4e8607` | Addition highlights                   |
+| ![#c0413e](https://via.placeholder.com/10/c0413e.png?text=+) `#c0413e` | Deletion highlights, errors, warnings |
+| ![#7098af](https://via.placeholder.com/10/7098af.png?text=+) `#7098af` | Modified and information highlights   |
 
 ## Theming Resources
 

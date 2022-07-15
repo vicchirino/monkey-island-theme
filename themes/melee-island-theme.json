@@ -13,7 +13,7 @@
     // Text colors
     "textBlockQuote.background": "#111575",
     "textBlockQuote.border": "#111575",
-    "textCodeBlock.background": "#242225",
+    "textCodeBlock.background": "#0a0e41",
     "textLink.activeForeground": "#e08602",
     "textLink.foreground": "#e08602",
     "textPreformat.foreground": "#d2d2d2",
@@ -21,7 +21,7 @@
 
     // Button control
     "button.background": "#e08602",
-    "button.foreground": "#242225",
+    "button.foreground": "#0a0e41",
     "button.hoverBackground": "#e0860299",
 
     // Dropdown control
@@ -37,14 +37,14 @@
     "input.placeholderForeground": "#d2d2d274",
     "inputOption.activeBorder": "#111575",
     "inputOption.activeBackground": "#e08602",
-    "inputValidation.errorBackground": "#242225",
-    "inputValidation.errorForeground": "#c0413e",
+    "inputValidation.errorBackground": "#c0413e",
+    "inputValidation.errorForeground": "#0a0e41",
     "inputValidation.errorBorder": "#c0413e",
-    "inputValidation.infoBackground": "#242225",
-    "inputValidation.infoForeground": "#7098af",
+    "inputValidation.infoBackground": "#7098af",
+    "inputValidation.infoForeground": "#0a0e41",
     "inputValidation.infoBorder": "#7098af",
-    "inputValidation.warningBackground": "#242225",
-    "inputValidation.warningForeground": "#c99231",
+    "inputValidation.warningBackground": "#c99231",
+    "inputValidation.warningForeground": "#0a0e41",
     "inputValidation.warningBorder": "#c99231",
 
     // Scrollbar control
@@ -307,7 +307,7 @@
 
     // Extensions
     "extensionButton.prominentBackground": "#e08602",
-    "extensionButton.prominentForeground": "#242225",
+    "extensionButton.prominentForeground": "#0a0e41",
     "extensionButton.prominentHoverBackground": "#e08602",
     "extensionIcon.starForeground": "#e08602",
     "extensionIcon.verifiedForeground": "#e08602",
