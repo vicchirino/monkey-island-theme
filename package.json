@@ -12,7 +12,7 @@
     "url": "https://github.com/vicchirino/monkey-island-theme/issues",
     "email": "vicchirino@gmail.com"
   },
-  "homepage": "https://www.victorchirino.com",
+  "homepage": "https://monkey-island-extension-site.vercel.app",
   "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.69.0"
